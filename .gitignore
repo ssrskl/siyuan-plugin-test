@@ -2,8 +2,8 @@
 node_modules
 .DS_Store
 .eslintcache
-dist
-package.zip
-index.css
-index.js
-i18n
+# dist
+# package.zip
+# index.css
+# index.js
+# i18n
